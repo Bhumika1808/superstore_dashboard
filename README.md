@@ -30,7 +30,7 @@ This dashboard is built using Superstore sales data and provides actionable insi
 
 ## 📂 Data Source
 
-The data used is based on the **Sample - Superstore** dataset, a widely-used dataset for business intelligence and analytics projects.
+<a href="https://github.com/Bhumika1808/superstore_dashboard/blob/main/Superstore.xlsx" Dataset used </a>
 
 ---
 

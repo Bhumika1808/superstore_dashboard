@@ -52,12 +52,17 @@ This dashboard is built using Superstore sales data and provides actionable insi
 
 ---
 
+
 ## 🧠 Insights & Learnings
 
 - Identified most profitable product categories (e.g., Copiers, Phones)
 - Noted that **Tables** resulted in significant losses
 - Found **California** and **New York** as top profit-generating states
 - Realized **Consumer segment** accounts for the majority of sales (50.72%)
+
+---
+
+<img width="1370" height="720" alt="image" src="https://github.com/user-attachments/assets/901d7cc3-31ad-4213-82b6-5030d8c27d28" />
 
 ---
 
